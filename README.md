@@ -13,7 +13,6 @@ By leveraging the **Labeled Faces in the Wild (LFW)** dataset, the project demon
 - **Deep Feature Extraction**: Utilizes **VGG16** to generate embeddings (feature vectors) from face images.
 - **Supervised Learning**: Implements **XGBoost** for accurate face classification.
 - **Similarity Search**: Employs **FAISS** to enable efficient retrieval of similar faces.
-- **Comprehensive Workflow**: Offers a step-by-step implementation in a Jupyter Notebook.
 
 ---
 
